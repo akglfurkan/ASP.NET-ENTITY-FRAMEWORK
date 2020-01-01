@@ -1,2 +1,2 @@
 # ASP.NET ENTITY FRAMEWORK
- Entity Framework
+ Entity Framework kurulumu ve kullanımı.
